@@ -37,7 +37,7 @@
             "tools": "SparkAR, Procreate",
             "award": "Awarded for Graduation exhibition",
             "conference" : "2021 ACM Interaction Design and Children",
-            "conference_download" : "'assets/pubish/MODU.pdf'",
+            "conference_download" : "'https://drive.google.com/file/d/16CpZV0RBinopcGSUg8zmyjqGIcIkVKr0/view?usp=sharing'",
             "subtitle": "A story-based empathy expression training game for children with mild intellectual disability and borderline intellectual functioning",
             "teaser": "assets/MODU/thumbnail.png",
             "heroshot": "assets/MODU/heroshot.png",
@@ -47,7 +47,7 @@
             "desc": "MODU is a <strong>tablet-based serious game that combines fairy tales and the Empathy Game</strong>. In fairy tales, the characters’ emotional states are emphasized. In the Empathy Game, a child recognizes the emotions of the characters in the story and responds empathically by producing facial expressions. The purpose of MODU is to improve emotional ability of children by participating in emotion recognition and expression imitation game.<br><br> This work is awarded a winner for 2020 Graduation Show by Industrial Deisgn of KAIST and presented at the IDC 2021 Conference. <br><br><i><strong>J. Park</strong>, S. Lee, S. Lee, MODU: A Story-Based Empathy Expression Training Game for Children with Mild Intellectual Disability and Borderline Intellectual Functioning In proceedings of Interaction Design and Children Conference 2021.</i>",
             "next": "steamdiscoverylab",
             "linklabel": "→ SEE THESIS",
-            "link": "assets/pubish/MODU.pdf",
+            "link": "https://drive.google.com/file/d/16CpZV0RBinopcGSUg8zmyjqGIcIkVKr0/view?usp=sharing",
             "process": [
                 {
                    "step": "",
