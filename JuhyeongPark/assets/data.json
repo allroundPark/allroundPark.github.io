@@ -1,0 +1,162 @@
+{   
+    "about":{
+        "name":"Juhyeong Park",
+        "title":"UX Designer",
+        "title2":"<br>M.S candidate",
+        "photo":"assets/profile.png",
+        "desc":"Juhyeong Park is an <strong>M.S. candidate</strong> of <a href='https://id.kaist.ac.kr/'><strong><u>Industrial Design department at KAIST</u></strong></a>. He received a B.S. in Industrial Design from KAIST. His research interests include designing digital products for improving emotional experience to enhance the daily life of others.",
+        "desc2":"Working at <a href='https://reflect9.github.io/ael/'><strong><u>AI Experience Lab (AEL)</u></strong></a>, studying <strong>data visualization and AI</strong>, being advised by <a href='https://www.takyeonlee.com/'><u>Prof. Take Yeon Lee</u></a>, a part of the <a href='https://hci.kaist.ac.kr/'><u>HCI@KAIST</u></a> group.",
+        "email": "wngud913@kaist.ac.kr",
+        "address": "",
+        "resume": "",
+        "linkedin":"https://www.linkedin.com/in/%EC%A3%BC%ED%98%95-%EB%B0%95-529492185/",
+        "github":""
+    },
+    "news":[
+        {
+            "title":"Started M.S program at AI-Experience Lab in KAIST under the Prof. Tak-Yeon Lee.",
+            "date": "Aug, 2021"
+        },
+        {
+            "title":"Our MODU paper is accepted to the 2021 ACM IDC conference",
+            "date": "May, 2021"
+        },
+        {
+            "title":"Awarded a Excellence Award by 2020 ID KAIST Graduation Show Ventures Accelerator",
+            "date": "Dec, 2020"
+        }
+    ],
+    "projects":[
+        {
+            "id":"MODU",
+            "title": "MODU",
+            "member" : "<strong>Juhyeong Park</strong>, Sunok Lee, Sangsu Lee",
+            "role": "Lit Review, Concept Development, Design, Developlemnt, User Study, Data Analysis",
+            "type": "Graduation Project, <br> Advised by Prof. Sangsu Lee",
+            "product": "Face Interactive Game, <br> Mobile Application",
+            "tools": "SparkAR, Procreate",
+            "award": "Awarded for Graduation exhibition",
+            "conference" : "2021 ACM Interaction Design and Children",
+            "conference_download" : "'assets/pubish/MODU.pdf'",
+            "subtitle": "A story-based empathy expression training game for children with mild intellectual disability and borderline intellectual functioning",
+            "teaser": "assets/MODU/thumbnail.png",
+            "heroshot": "assets/MODU/heroshot.png",
+            "tags":["UX/UI", "Concept", "Research", "Development", "Featured"],
+            "video": "assets/draw2code/draw2code-tutorial.mp4",
+            "rq": "How might we develop a computational kit that increases young children’s participation in computing, especially children from underrepresented groups in STEM?",
+            "desc": "MODU is a <strong>tablet-based serious game that combines fairy tales and the Empathy Game</strong>. In fairy tales, the characters’ emotional states are emphasized. In the Empathy Game, a child recognizes the emotions of the characters in the story and responds empathically by producing facial expressions. The purpose of MODU is to improve emotional ability of children by participating in emotion recognition and expression imitation game.<br><br> This work is awarded a winner for 2020 Graduation Show by Industrial Deisgn of KAIST and presented at the IDC 2021 Conference. <br><br><i><strong>J. Park</strong>, S. Lee, S. Lee, MODU: A Story-Based Empathy Expression Training Game for Children with Mild Intellectual Disability and Borderline Intellectual Functioning In proceedings of Interaction Design and Children Conference 2021.</i>",
+            "next": "steamdiscoverylab",
+            "linklabel": "→ SEE THESIS",
+            "link": "assets/pubish/MODU.pdf",
+            "process": [
+                {
+                   "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": " ",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+              
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                },
+                { 
+                    "step": "",
+                    "image": "",
+                    "caption": ""
+                }
+            ],
+            "images": [
+                { 
+                    "image": "assets/MODU/1_Background.png",
+                    "caption": ""
+                },
+                { 
+                    "image": "assets/MODU/2_Key_Features.png",
+                    "caption": ""
+                },
+                { 
+                    "image": "assets/MODU/3_UI.png",
+                    "caption": ""
+                },
+                { 
+                    "image": "assets/MODU/4_Game Scenario.png",
+                    "caption": ""
+                },
+                { 
+                    "image": "assets/MODU/5_User_Study.png",
+                    "caption": ""
+                }
+            ],
+            "wrappedimages": [
+               
+            ],
+            "reflection": [
+                { 
+                    "title": "Joy of Implementing an Idea from Scratch",
+                    "desc": ""
+                },
+                { 
+                    "title": "Testing Early, Testing Often to Validate with Users",
+                    "desc": ""
+                }
+            ]
+        }
+                
+    ]
+}
